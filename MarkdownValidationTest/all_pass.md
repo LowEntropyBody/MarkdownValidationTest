@@ -10,6 +10,8 @@ ms.technology: devlang-csharp
 ---
 # Welcome to MarkdownValidationTest!
 
+[!INCLUDE [notes](./Exclude/content-validation-2.md)]
+
 - [AutolinkWithinList-invalid](http://docs.microsoft.com/en-us)
 - [AutolinkWithinList-valid](http://docs.microsoft.com/nolocale)
 
