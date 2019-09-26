@@ -54,15 +54,7 @@ http security check [alt text](http://docs.microsoft.com/), [foo]
 
 `#7 Link in TabGroup`
 
-Tab group test case
-
-## [title-a](#tab/a)
-
-Locale in link check [alt text](https://docs.microsoft.com/en-us)
-
-## [title-b](#tab/b)
-
-http security check [alt text](http://docs.microsoft.com/)
+`Placehold for links in TabGroup`
 
 `#8 Link in Row`
 
