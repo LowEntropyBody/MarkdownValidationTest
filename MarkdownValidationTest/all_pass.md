@@ -10,8 +10,9 @@ ms.technology: devlang-csharp
 ---
 # Welcome to MarkdownValidationTest!
 
-[AutolinkWithinParagraph](http://docs.microsoft.com/en-us)
-[AutolinkWithinParagraph](http://docs.microsoft.com/nolocale)
+- [AutolinkWithinList-invalid](http://docs.microsoft.com/en-us)
+- [AutolinkWithinList-valid](http://docs.microsoft.com/nolocale)
 
-- [AutolinkWithinList](http://docs.microsoft.com/en-us)
-- [AutolinkWithinList](http://docs.microsoft.com/nolocale)
+[AutolinkWithinParagraph-invalid](http://docs.microsoft.com/en-us)
+[AutolinkWithinParagraph-valid](http://docs.microsoft.com/nolocale)
+
