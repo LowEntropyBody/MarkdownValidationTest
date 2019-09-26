@@ -8,9 +8,8 @@ ms.topic: article
 ms.prod: .net
 ms.technology: devlang-csharp
 ---
-
-`#1 Link in header` 
 # Header Locale in link check [text](https://docs.microsoft.com/en-us)
+`#1 Link in header` 
 
 `#2 Link in paragraph`
 
@@ -27,17 +26,7 @@ This is paragraph for http security check [text](http://docs.microsoft.com/)
 
 `#4 Link in TripleColon or Zone`
 
-:::zone target=\"chromeless\"
-
-Locale in link check [alt text](https://docs.microsoft.com/en-us)
-
-:::zone-end
-
-:::zone target=\"edge\"
-
-http security check [alt text](http://docs.microsoft.com/)
-
-:::zone-end
+`Placeholder for zone pivot`
 
 `#5 Link in Moniker range`
 
@@ -77,25 +66,7 @@ http security check [alt text](http://docs.microsoft.com/)
 
 `#8 Link in Row`
 
-:::row:::
-
-:::column:::
-
-Locale in link check [alt text](https://docs.microsoft.com/en-us)
-
-:::column-end:::
-
-:::row-end:::
-
-:::row:::
-
-:::column:::
-
-http security check [alt text](https://docs.microsoft.com/)
-
-:::column-end:::
-
-:::row-end:::
+`Placehold for links in Row`
 
 `#9 Link in block quote`
 
