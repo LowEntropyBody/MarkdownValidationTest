@@ -8,7 +8,7 @@ ms.topic: article
 ms.prod: .net
 ms.technology: devlang-csharp
 ---
-# Header Locale in link check [text](https://docs.microsoft.com/en-us)
+# Header Locale in link check [text](https://docs.microsoft.com/en-us) 
 `#1 Link in header` 
 
 `#2 Link in paragraph`
