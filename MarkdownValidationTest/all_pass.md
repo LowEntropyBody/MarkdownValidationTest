@@ -16,3 +16,5 @@ ms.technology: devlang-csharp
 [AutolinkWithinParagraph-invalid](http://docs.microsoft.com/en-us)
 [AutolinkWithinParagraph-valid](http://docs.microsoft.com/nolocale)
 
+::: moniker range=\"product - 1.0\"\r\n[alt text](http://docs.microsoft.com/nolocale)\r\n::: moniker-end
+::: moniker range=\"product - 1.0\"\r\n[alt text](http://docs.microsoft.com/en-US)\r\n::: moniker-end
