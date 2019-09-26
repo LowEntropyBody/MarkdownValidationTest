@@ -17,7 +17,7 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md",
-          "ExcludedFolder"
+          "Exclude/**"
         ]
       }
     ],
