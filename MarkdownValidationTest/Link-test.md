@@ -30,10 +30,6 @@ This is paragraph for http security check [text](http://docs.microsoft.com/)
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
-:::zone-end
-
-:::zone target="edge"
-
 http security check [alt text](http://docs.microsoft.com/)
 
 :::zone-end
