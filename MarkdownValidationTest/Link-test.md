@@ -26,13 +26,13 @@ This is paragraph for http security check [text](http://docs.microsoft.com/)
 
 `#4 Link in TripleColon or Zone`
 
-:::zone target=\"chromeless\"
+:::zone target="chromeless"
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
 :::zone-end
 
-:::zone target=\"edge\"
+:::zone target="edge"
 
 http security check [alt text](http://docs.microsoft.com/)
 
@@ -40,13 +40,13 @@ http security check [alt text](http://docs.microsoft.com/)
 
 `#5 Link in Moniker range`
 
-::: moniker range=\"product - 1.0\"
+::: moniker range="product - 1.0"
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
 ::: moniker-end
 
-::: moniker range=\"product - 1.0\"
+::: moniker range="product - 2.0"
 
 http security check [alt text](http://docs.microsoft.com/)
 
