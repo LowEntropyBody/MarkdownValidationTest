@@ -62,13 +62,15 @@ http security check [alt text](http://docs.microsoft.com/), [foo]
 
 Tab group test case
 
-## [title-a](#tab/a)
+## [.NET](#tab/dotnet)
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
-## [title-b](#tab/b)
+## [C#](#tab/csharp)
 
 http security check [alt text](http://docs.microsoft.com/)
+
+---
 
 `#8 Link in Row`
 
