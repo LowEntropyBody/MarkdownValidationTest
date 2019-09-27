@@ -8,8 +8,8 @@ ms.topic: article
 ms.prod: .net
 ms.technology: devlang-csharp
 ---
+`#1 Link in header`
 # Header Locale in link check [text](https://docs.microsoft.com/en-us)
-`#1 Link in header` 
 
 `#2 Link in paragraph`
 
@@ -26,17 +26,23 @@ This is paragraph for http security check [text](http://docs.microsoft.com/)
 
 `#4 Link in TripleColon or Zone`
 
-`Placeholder for zone pivot`
+:::zone target="chromeless"
+
+Locale in link check [alt text](https://docs.microsoft.com/en-us)
+
+http security check [alt text](http://docs.microsoft.com/)
+
+:::zone-end
 
 `#5 Link in Moniker range`
 
-::: moniker range=\"product - 1.0\"
+::: moniker range="product - 1.0"
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
 ::: moniker-end
 
-::: moniker range=\"product - 1.0\"
+::: moniker range="product - 2.0"
 
 http security check [alt text](http://docs.microsoft.com/)
 
@@ -54,11 +60,37 @@ http security check [alt text](http://docs.microsoft.com/), [foo]
 
 `#7 Link in TabGroup`
 
-`Placehold for links in TabGroup`
+Tab group test case
+
+## [title-a](#tab/a)
+
+Locale in link check [alt text](https://docs.microsoft.com/en-us)
+
+## [title-b](#tab/b)
+
+http security check [alt text](http://docs.microsoft.com/)
 
 `#8 Link in Row`
 
-`Placehold for links in Row`
+:::row:::
+
+:::column:::
+
+Locale in link check [alt text](https://docs.microsoft.com/en-us)
+
+:::column-end:::
+
+:::row-end:::
+
+:::row:::
+
+:::column:::
+
+http security check [alt text](https://docs.microsoft.com/)
+
+:::column-end:::
+
+:::row-end:::
 
 `#9 Link in block quote`
 
