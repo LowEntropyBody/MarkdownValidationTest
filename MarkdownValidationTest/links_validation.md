@@ -8,8 +8,8 @@ ms.topic: article
 ms.prod: .net
 ms.technology: devlang-csharp
 ---
-`#1 Link in header`
-# Header Locale in link check [text](https://docs.microsoft.com/en-us)
+`#1 Link in header` 
+# Header Locale in link check [text](https://docs.microsoft.com/en-us) 
 
 `#2 Link in paragraph`
 
@@ -62,13 +62,15 @@ http security check [alt text](http://docs.microsoft.com/), [foo]
 
 Tab group test case
 
-## [title-a](#tab/a)
+## [.NET](#tab/dotnet)
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
-## [title-b](#tab/b)
+## [C#](#tab/csharp)
 
 http security check [alt text](http://docs.microsoft.com/)
+
+---
 
 `#8 Link in Row`
 
