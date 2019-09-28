@@ -62,13 +62,14 @@ http security check [alt text](http://docs.microsoft.com/), [foo]
 
 Tab group test case
 
-## [title-a](#tab/a)
+# [Tab Text 1](#tab/tabid-1)
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
-## [title-b](#tab/b)
-
 http security check [alt text](http://docs.microsoft.com/)
+
+# [Tab Text 2](#tab/tabid-2)
+
 
 `#8 Link in Row`
 
@@ -102,7 +103,7 @@ http security check [alt text](https://docs.microsoft.com/)
 
 <p>Locale in link check [alt text](https://docs.microsoft.com/en-us)</p>
 
-<p>http security check [alt text](https://docs.microsoft.com)</p>
+<p>http security check [alt text](http://docs.microsoft.com)</p>
 
 `#11 Link in Fenced code or inline code (not applicable)`
 
