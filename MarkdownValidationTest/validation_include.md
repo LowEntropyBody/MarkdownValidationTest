@@ -11,4 +11,4 @@ ms.technology: devlang-csharp
 `#1 Link in header` 
 # Header Locale in link check [text](https://docs.microsoft.com/en-us)
 
-[Include Files](/includes/token2.md)
+[!INCLUDE [notes](/includes/token2.md)]
