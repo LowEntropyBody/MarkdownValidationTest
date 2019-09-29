@@ -9,7 +9,7 @@ ms.prod: .net
 ms.technology: devlang-csharp
 ---
 `#1 Header validation` 
-#Invalid Header
+# Sample Header
 
 `#2 Link validation`
 
