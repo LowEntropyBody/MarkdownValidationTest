@@ -9,7 +9,7 @@ ms.prod: .net
 ms.technology: devlang-csharp
 ---
 `#1 Link in header` 
-# Header Locale in link check [text](https://docs.microsoft.com/en-us) 
+# Header Locale in link check [text](https://docs.microsoft.com/en-us)
 
 `#2 Link in paragraph`
 
@@ -88,7 +88,7 @@ Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
 :::column:::
 
-http security check [alt text](https://docs.microsoft.com/)
+http security check [alt text](http://docs.microsoft.com/)
 
 :::column-end:::
 
