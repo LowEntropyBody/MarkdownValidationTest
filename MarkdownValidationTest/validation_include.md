@@ -9,4 +9,4 @@ ms.prod: .net
 ms.technology: devlang-csharp
 ---
 
-[!INCLUDE [notes](../includes/token2.md)]
+[!INCLUDE [notes](./includes/token2.md)]
