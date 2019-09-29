@@ -9,7 +9,7 @@ ms.prod: .net
 ms.technology: devlang-csharp
 ---
 `#1 Header validation` 
-# Header Locale in link check [text](https://docs.microsoft.com/en-us)
+#Invalid Header
 
 `#2 Link validation`
 
