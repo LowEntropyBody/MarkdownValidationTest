@@ -88,7 +88,7 @@ Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
 :::column:::
 
-http security check [alt text](https://docs.microsoft.com/)
+http security check [alt text](http://docs.microsoft.com/)
 
 :::column-end:::
 
