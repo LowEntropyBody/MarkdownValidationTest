@@ -8,9 +8,8 @@ ms.topic: article
 ms.prod: .net
 ms.technology: devlang-csharp
 ---
-
-`#1 Link in header`
-# Header Locale in link check [text](https://docs.microsoft.com/en-us)
+`#1 Link in header` 
+# Header Locale in link check [text](https://docs.microsoft.com/en-us) 
 
 `#2 Link in paragraph`
 
@@ -27,13 +26,9 @@ This is paragraph for http security check [text](http://docs.microsoft.com/)
 
 `#4 Link in TripleColon or Zone`
 
-:::zone target=\"chromeless\"
+:::zone target="chromeless"
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
-
-:::zone-end
-
-:::zone target=\"edge\"
 
 http security check [alt text](http://docs.microsoft.com/)
 
@@ -41,13 +36,13 @@ http security check [alt text](http://docs.microsoft.com/)
 
 `#5 Link in Moniker range`
 
-::: moniker range=\"product - 1.0\"
+::: moniker range="product - 1.0"
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
 ::: moniker-end
 
-::: moniker range=\"product - 1.0\"
+::: moniker range="product - 2.0"
 
 http security check [alt text](http://docs.microsoft.com/)
 
@@ -67,13 +62,15 @@ http security check [alt text](http://docs.microsoft.com/), [foo]
 
 Tab group test case
 
-## [title-a](#tab/a)
+## [.NET](#tab/dotnet)
 
 Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
-## [title-b](#tab/b)
+## [C#](#tab/csharp)
 
 http security check [alt text](http://docs.microsoft.com/)
+
+---
 
 `#8 Link in Row`
 
@@ -91,7 +88,7 @@ Locale in link check [alt text](https://docs.microsoft.com/en-us)
 
 :::column:::
 
-http security check [alt text](https://docs.microsoft.com/)
+http security check [alt text](http://docs.microsoft.com/)
 
 :::column-end:::
 
@@ -107,7 +104,7 @@ http security check [alt text](https://docs.microsoft.com/)
 
 <p>Locale in link check [alt text](https://docs.microsoft.com/en-us)</p>
 
-<p>http security check [alt text](https://docs.microsoft.com)</p>
+<p>http security check [alt text](http://docs.microsoft.com)</p>
 
 `#11 Link in Fenced code or inline code (not applicable)`
 
