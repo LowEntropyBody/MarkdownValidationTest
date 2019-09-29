@@ -2,7 +2,7 @@
 title: MetadataValidationTest
 author: noelbundick
 product: ['azure']
-ms.author: jasoz__
+ms.author: jasoz
 ms.date: 07/23/2018
 ms.topic: article
 ms.prod: .net
