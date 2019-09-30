@@ -52,7 +52,7 @@ http security check [alt text](http://docs.microsoft.com/)
 
 Locale in link check [alt text][Microsoft Azure Docs https]
 
-http security check [alt text][Microsoft Azure Docs http]
+http security check [alt text][Microsoft Azure Docs Insecure http]
 
 [Microsoft Azure Docs https]: https://docs.microsoft.com/en-us
 
