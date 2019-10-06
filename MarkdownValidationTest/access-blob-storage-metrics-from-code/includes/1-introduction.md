@@ -21,3 +21,6 @@ At the end of this module, you will be able to:
 
 > [!NOTE]
 > For this module, you will need use your own subscription to complete the optional exercises, and a trial subscription or a subscription that you already have access to will work to follow along.
+
+`#1 Link in header` 
+# Header Locale in link check [text](https://docs.microsoft.com/include/en-us)
