@@ -10,11 +10,14 @@ ms.service: data-share
 
 # Azure Data Share libraries for .NET
 
+# duplicated Azure Data Share libraries for .NET
+
 ## Overview
 
 - # list #1
 
 - # list #2
+
 
 [Azure Data Share](https://azure.microsoft.com/en-us/services/data-share/) is a cloud-based service that helps customers share data with other organizations. Azure Data Share provides centralized management, monitoring, and governance for sharing data from multiple Azure data sources. Using this service, you can quickly create shares that consist of multiple datasets from a variety of Azure data stores. You can invite your customers and external partners to access these shares through incremental snapshots of your data and revoke access as needed.
 
@@ -57,3 +60,9 @@ client.Accounts.Create(resourceGroupName, accountName, account);
 
 > [!div class="nextstepaction"]
 > [Explore the management APIs](/dotnet/api/overview/azure/datashare/management)
+
+::: zone target="docs"
+
+# Tutorial: Copy data to Azure Data Box via SMB
+
+::: zone-end
