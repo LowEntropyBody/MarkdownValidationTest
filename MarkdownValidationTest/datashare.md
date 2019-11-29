@@ -82,3 +82,10 @@ public class test1
 }
 ```
 
+```.NET Core CLI
+public class test1
+{
+    Console.WriteLine("Hello World");
+}
+```
+
