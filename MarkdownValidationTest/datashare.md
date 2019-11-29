@@ -66,3 +66,11 @@ client.Accounts.Create(resourceGroupName, accountName, account);
 # Tutorial: Copy data to Azure Data Box via SMB
 
 ::: zone-end
+
+
+```dotnetcli
+public class test1
+{
+    Console.WriteLine("Hello World");
+}
+```
