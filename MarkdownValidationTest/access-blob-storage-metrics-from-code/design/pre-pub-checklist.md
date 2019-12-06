@@ -1,3 +1,7 @@
+---
+ms.author:yahajiza
+---
+
 # Pre-publication checklist
 1. Metadata
 1. Content/Media/assets
