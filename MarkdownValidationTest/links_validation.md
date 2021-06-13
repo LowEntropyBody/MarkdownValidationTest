@@ -50,13 +50,13 @@ http security check [alt text](http://docs.microsoft.com/)
 
 `#6 Link in LinkReferenceDefinition(Group)`
 
-[foo]: /url1 \"title\"
+Locale in link check [alt text][Microsoft Azure Docs https]
 
-Locale in link check [alt text](https://docs.microsoft.com/en-us), [foo]
+http security check [alt text][Microsoft Azure Docs Insecure http]
 
-[foo]: /url1 \"title\"
+[Microsoft Azure Docs https]: https://docs.microsoft.com/en-us
 
-http security check [alt text](http://docs.microsoft.com/), [foo]
+[Microsoft Azure Docs Insecure http]: http://docs.microsoft.com/
 
 `#7 Link in TabGroup`
 
